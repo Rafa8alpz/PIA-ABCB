@@ -1,13 +1,13 @@
 # Universidad Autónoma de Nuevo León
-## Facultad de Ciencias Físico-Matemáticas (FCFM)
-### Licenciatura en Seguridad y Tecnologías de la Información (LSTI)
+## Facultad de Ciencias Físico-Matemáticas 
+### Licenciatura en Seguridad y Tecnologías de la Información 
 
 ---
 
-### **Materia:** Aplicaciones de Blockchain y Criptomonedas (ABCB)
-### **Profesor:** Dr. Arturo E. Torres
-### **Proyecto:** Estudiambre (PIA)
+### **Materia:** Aplicaciones Basadas en Cadenas de Bloques 
+### **Profesor:** ALEJANDRO MUNIZ SOLORIO
+### **Proyecto:** Estudiambre 
 ### **Matrícula y Alumno:** 1968824 - Kevin Rafael Ochoa López
-### **Semestre y Grupo:** 7° Semestre
+### **Semestre y Grupo:** 061
 
 ---
